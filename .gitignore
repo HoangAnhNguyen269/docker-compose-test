@@ -12,3 +12,13 @@ data/mysql/wordpress_db/wp_term_relationships.ibd
 data/mysql/wordpress_db/wp_term_taxonomy.ibd
 data/mysql/wordpress_db/wp_terms.ibd
 data/mysql/wordpress_db/wp_usermeta.ibd
+data/mysql/auto.cnf
+data/mysql/ib_logfile0
+data/mysql/ibdata1
+data/mysql/ibtmp1
+data/mysql/mysql/innodb_index_stats.ibd
+data/mysql/mysql/innodb_table_stats.ibd
+data/mysql/wordpress_db/wp_options.ibd
+data/mysql/wordpress_db/wp_postmeta.ibd
+data/mysql/wordpress_db/wp_posts.ibd
+data/mysql/wordpress_db/wp_usermeta.ibd
